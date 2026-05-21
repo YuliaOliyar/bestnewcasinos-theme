@@ -1,0 +1,35 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663200285774/GRjtn9nGvrvbUSD2fuH7YJ",
+    "access_key_id": "ASIAZV3A2ECZG3KKFSC4",
+    "secret_access_key": "GDLhxHd3bZxiYrBzrwhrsOXG7TxNMNg9nv4lDUMo",
+    "session_token": "IQoJb3JpZ2luX2VjED0aCXVzLWVhc3QtMSJHMEUCIEZ36SzSuwv2QCgiSVOtdUCG4/fosFDl+85GbNgiqS8RAiEAmzj/nb2Vc0Pe9qIJnkPqtuX3W7Akt+avPehmZFuRQU4q9gMIBhAEGgw2NjUzODYwOTg4NjYiDAacvfMSnmp8j8bEcyrTA/Pp+U4Cg69uIbA2xtibbqQSzv2WFBLXhJuXRK8+nXjPzJ+XQulSi3ug9b2K733SH1ZsxvVYs2mOEByT9OIztvl09U7vpip6dtcc1SUEbqidcfN4hrdtq/hHvLuqekZxb1IB+zk6Wp9igP6PjL1CnyfvTETqoVB1OoLD29nqrtNaLPpARwFjHhoeQhuxENnD5snKy97MoUFOWUrnmflakA9+mGNViPXJVc3ZFajHJxWIPhTlCStiVR6oSGABeafE8yJn6ut0GIQyhK2ykFnPkAd1WWi+SR51sO5hfzVhjFoUyLyiXGOjtmqr1kWMYbVdkHXdNMvlf0oX2WsU8ny3vd7TA4VblLoGBB/TigAZoymYVIj1SXWeZmcky3zrk5BCHAV4dXlgzu/qgPJdZfG2gdEZyfZqKNNt3B3+FNdg1D6kh9LqsCU8qyLpwkS4Nd+Y3hw2/SxzchFnh11kGSu1qZajQvwES/0f2jCfSM2TD4YaJerSpvbOnwJmgbYjR77i8F6FF7VURbBAy7LIta8b3Wzzg8P3gwLTzpzp8iaX9h4UmkOvcBYi2DqAoS8ZABkPjcHaUKgaaNzisnBJXM/E1pZrUG759/9r6LLvyavTqkUG8wjNMLfyu9AGOp0BDa346Zss7enreuvFH7QYEaLPa4BGfRDoCBMPLzR2oP1HW62ohWZWd3Ad+IsQjj4CYeVAJkw5F4KHX9kzwtyoRh1qA9anleV3qnW1GhGG13afOggzd1r5JE7czkt8dq/HhIo/BeyU2sQHXGXt4UWjU8EFBNUDeJjYTDlhcLSzOWN9z1roi0stcCkkPByggk7HVrzNfCAoVl4ukfvAvg==",
+    "expiration": "2026-05-22T00:23:19.000Z"
+  },
+  "name": "bestnewcasinos-theme",
+  "path": "/home/ubuntu/bestnewcasinos-theme",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "Ts4uUUeZK94JUkCFKZV7p7",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "82KDXKkWE98g5xUSRH95JW",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Yuliya Oliyar",
+    "OWNER_OPEN_ID": "Sr5X33nseVoviPZ2C5h8Hd",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "7c581a69-3e27-4567-9ba7-3877a6047e39",
+    "VITE_APP_ID": "GRjtn9nGvrvbUSD2fuH7YJ",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Best New Casinos Theme",
+    "VITE_FRONTEND_FORGE_API_KEY": "2tnvsmX6HDKPkmCC5pnqih",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
